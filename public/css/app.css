@@ -230,3 +230,6 @@ footer .footer-cta .container .socials .social-list {
     gap: 1rem;
 }
 
+footer a:hover {
+    color: white;
+}
